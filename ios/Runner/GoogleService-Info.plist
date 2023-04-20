@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>682245367992-0ui8co3aeeb1ug10kk3guft4bo4mo8cu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.682245367992-0ui8co3aeeb1ug10kk3guft4bo4mo8cu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBf9De34-1c9DW6z-IryRFexWKKLRm5_7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>682245367992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mybucks</string>
+	<key>PROJECT_ID</key>
+	<string>mybucks-a55e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mybucks-a55e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:682245367992:ios:3db7c4cfff83160aa1ac4d</string>
+</dict>
+</plist>

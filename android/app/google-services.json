@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432219406370",
+    "project_id": "mybucks-5bdab",
+    "storage_bucket": "mybucks-5bdab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432219406370:android:7aa7e21c6cdaefc3ddca7b",
+        "android_client_info": {
+          "package_name": "com.example.mybucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432219406370-trqorj9u6vomkc4d39et0b78uptesr0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxG9Y88WpPGCTCZBy98Pq4g30qqVMWGCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432219406370-trqorj9u6vomkc4d39et0b78uptesr0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

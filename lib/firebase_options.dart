@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBz1fY9UqL1qGXw-l5oFzy8Pkgozb__KSU',
-    appId: '1:432219406370:web:5f1483936f144fc8ddca7b',
-    messagingSenderId: '432219406370',
-    projectId: 'mybucks-5bdab',
-    authDomain: 'mybucks-5bdab.firebaseapp.com',
-    storageBucket: 'mybucks-5bdab.appspot.com',
-    measurementId: 'G-ZVK654JRQV',
+    apiKey: '*',
+    appId: '*',
+    messagingSenderId: '*',
+    projectId: '*',
+    authDomain: '*',
+    storageBucket: '*',
+    measurementId: '*',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAxG9Y88WpPGCTCZBy98Pq4g30qqVMWGCA',
-    appId: '1:432219406370:android:7aa7e21c6cdaefc3ddca7b',
-    messagingSenderId: '432219406370',
-    projectId: 'mybucks-5bdab',
-    storageBucket: 'mybucks-5bdab.appspot.com',
+    apiKey: '*',
+    appId: '*',
+    messagingSenderId: '*',
+    projectId: '*',
+    storageBucket: '*',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD_JExKAauVqKkB3UqE0ABgDkQhtIHQJRY',
-    appId: '1:432219406370:ios:07480fd7bd864ca6ddca7b',
-    messagingSenderId: '432219406370',
-    projectId: 'mybucks-5bdab',
-    storageBucket: 'mybucks-5bdab.appspot.com',
-    iosClientId: '432219406370-ta00d4ak2kal7d0jbprd81e00dmhphga.apps.googleusercontent.com',
-    iosBundleId: 'com.example.mybucks',
+    apiKey: '*',
+    appId: '*',
+    messagingSenderId: '*',
+    projectId: '*',
+    storageBucket: '*',
+    iosClientId: '*',
+    iosBundleId: '*',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD_JExKAauVqKkB3UqE0ABgDkQhtIHQJRY',
-    appId: '1:432219406370:ios:ad27c5549403e0d6ddca7b',
-    messagingSenderId: '432219406370',
-    projectId: 'mybucks-5bdab',
-    storageBucket: 'mybucks-5bdab.appspot.com',
-    iosClientId: '432219406370-fb9b3mblu5lm58l28b5kdmgqfcc54h7v.apps.googleusercontent.com',
-    iosBundleId: 'com.example.mybucks.RunnerTests',
+    apiKey: '*',
+    appId: '*',
+    messagingSenderId: '*',
+    projectId: '*',
+    storageBucket: '*',
+    iosClientId: '*',
+    iosBundleId: '*,
   );
 }

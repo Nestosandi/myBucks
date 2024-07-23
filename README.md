@@ -13,9 +13,9 @@ Welcome to MyBucks! This Flutter application helps you keep track of your expens
 
 ## Screenshots
 
-[Home Screen](assets/images/Home page.png)
-[Expense List](assets/images/Analytics page.png)
-[Set a Budget](assets/images/Budget Page - General.png)
+![Home Screen](myBucks/assets/images/Home page.png)
+![Expense List](myBucks/assets/images/Analytics page.png)
+![Set a Budget](myBucks/assets/images/Budget Page - General.png)
 
 ## Getting Started
 
